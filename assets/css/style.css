@@ -395,7 +395,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 /*------/ Prelaoder /------*/
-#preloader {
+/* #preloader {
   position: fixed;
   top: 0;
   left: 0;
@@ -427,7 +427,7 @@ body::-webkit-scrollbar-thumb {
   100% {
     transform: rotate(360deg);
   }
-}
+} */
 
 /*------/ Button /------*/
 .button {
